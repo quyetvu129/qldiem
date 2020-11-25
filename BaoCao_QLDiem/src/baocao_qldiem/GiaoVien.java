@@ -10,8 +10,11 @@ package baocao_qldiem;
  * @author thien
  */
 public class GiaoVien {
-    private String MaGV1;
-    private String TenGV2222222222222222222222222;
+
+    private String TenGV;
+    private String MaGV;
+    private String TenGV;
+
     private String MaMH;
     
     public GiaoVien(){
