@@ -11,7 +11,7 @@ package baocao_qldiem;
  */
 public class GiaoVien {
     private String MaGV1;
-    private String TenGV;
+    private String TenGV2222222222222222222222222;
     private String MaMH;
     
     public GiaoVien(){
